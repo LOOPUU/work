@@ -39,3 +39,28 @@ Full Stack Developer มีประสบการณ์พัฒนาเว�
 **เทคโนโลยี:** PHP 8.2, Laravel 11, Blade, Bootstrap 5, SQLite, MVC และ Eloquent ORM
 
 - [Source Code](https://github.com/LOOPUU/gentle-cut-laravel)
+
+
+
+Chang Handmade — ระบบขายสินค้าแฮนด์เมดออนไลน์
+
+ระบบ E-commerce สำหรับจำหน่ายพวงกุญแจช้างและกระเป๋าแฮนด์เมด มีหน้าร้าน ระบบสั่งซื้อ และระบบจัดการหลังบ้าน
+
+ฟังก์ชันหลัก
+
+แสดงและค้นหาสินค้า
+เพิ่มสินค้าลงตะกร้า
+บันทึกคำสั่งซื้อ
+คำนวณยอดรวม
+ระบบ Admin สำหรับดูและจัดการคำสั่งซื้อ
+เชื่อมต่อ Backend API และฐานข้อมูล PostgreSQL
+Responsive Design
+
+เทคโนโลยี: React, Next.js, Node.js, Express.js, PostgreSQL, RESTful API และ Docker
+
+Source Code
+หน้าร้าน
+ระบบ Admin
+Backend API
+
+- [Source Code](https://github.com/LOOPUU/chang-handmade-ecommerce)
